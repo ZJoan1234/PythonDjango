@@ -134,3 +134,16 @@ class SignIndexActionTest(TestCase):
         self.assertIn(b"sign in success!", response.content)
 
 
+'''
+运行所有用例：
+python3 manage.py test
+运行sign应用下的所有用例：
+python3 manage.py test sign
+运行sign应用下的tests.py文件用例：
+python3 manage.py test sign.tests
+运行sign应用下的tests.py文件中的 GuestManageTest 测试类：
+python3 manage.py test sign.tests.GuestManageTest
+......
+'''
+
+
