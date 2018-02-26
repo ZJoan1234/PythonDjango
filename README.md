@@ -1,1 +1,2 @@
-python3版本，基于Django2.0开发的建议嘉宾签到管理会发布系统
+# PythonDjango
+基于Python3+django2.0开发的项目
