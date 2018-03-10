@@ -6,6 +6,8 @@
         <list>
           <option value="sign.views" />
           <option value="sign.views_if" />
+          <option value="Requests_test.guests.__" />
+          <option value="Requests_test.guests.if__name__" />
         </list>
       </option>
     </inspection_tool>
